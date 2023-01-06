@@ -1,0 +1,20 @@
+id: A4A3CA3DF
+title: 'The Melodious Speech of Samantabhadra: A Prayer to the Glorious Master Jamgön
+  Kongtrul Thaye'
+type: translation
+pechas:
+- I208B2C2E
+- I59A5ABF5
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:01:48.516752
+  last_modified_at: 2023-01-04 12:01:48.516754
+  collections:
+  - Jamgön Kongtrul Lodrö Thaye Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I208B2C2E/BD79: '7665'
+  I59A5ABF5/DF45: '7665'
